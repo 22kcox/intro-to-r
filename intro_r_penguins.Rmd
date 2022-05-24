@@ -1,6 +1,6 @@
 ---
 title: "Intro to R: Penguins - How Do they Work?"
-author: "Jeremy Allen"
+author: "Katelyn Cox"
 date: "`r format(Sys.time(), tz='America/New_York', usetz = TRUE)`"
 output: html_document
 editor_options: 
